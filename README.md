@@ -9,6 +9,6 @@ Leishmania parasites cause cutaneous leishmaniasis (CL), a disease characterized
 
 These analyses are also available as a shiny app, using the ShinyCell R package: https://amorimc.shinyapps.io/lmajor_scrnaseq/
 
-<img align="center" width="550" height="300" src="schematic.png">
+<img align="center" width="550" height="300" src="schematic_.png">
 
 ```
