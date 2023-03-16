@@ -12,6 +12,8 @@ Leishmania parasites cause cutaneous leishmaniasis (CL), a disease characterized
 
 These analyses are also available as a shiny app, using the ShinyCell R package: https://amorimc.shinyapps.io/lmajor_scrnaseq/
 
+Ps.: A minimal difference from my analyses is that I found cell clusters with a 1.5 resolution (Seurat pipeline). UMAP differences between my analyses and Venugopal G might be associated with the Seurat package version and number of PCAs used in the calculations do reduce de dimensionality of the dataset - this does not impact technical or biological findings.
+
 <img align="center" width="550" height="200" src="schematic_.png">
 
 ```
