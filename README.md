@@ -1,9 +1,9 @@
-scRNA-seq from L.major infected mice and Shiny App
+scRNA-seq from L.major infected mice and ShinyApp
 Camila Farias Amorim re-analyses, 2023
 
 # In vivo transcriptional analysis of mice infected with Leishmania major unveils cellular heterogeneity and altered transcriptomic profiling at single-cell resolution
 
-> This is the R code associated with my re-analyses of the single-cell RNA-seq dataset from Venugopal G. et al, 2021 published at PLOS NTD.
+> This is the R code associated with my re-analyses of the single-cell RNA-seq dataset from Venugopal G. and Bird J.T. et al, 2021 published at PLOS NTD.
 
 <p>https://doi.org/10.1371/journal.pntd.0010518</p>
 
