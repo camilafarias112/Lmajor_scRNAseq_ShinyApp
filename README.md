@@ -1,3 +1,6 @@
+ANALYSES FROM THIS APP ARE CITABLE AS: Farias Amorim 2023 re-analyses: L. major scRNA-seq from Venugopal G. et al., Plos NTD 2021. https://zenodo.org/doi/10.5281/zenodo.10359645
+
+
 scRNA-seq from L.major infected mice and ShinyApp
 Camila Farias Amorim re-analyses, 2023
 
